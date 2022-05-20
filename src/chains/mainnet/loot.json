@@ -1,0 +1,16 @@
+{
+    "chain_name": "loot",
+    "api": "http://adam.cosmwasm-resear.ch:1317",
+    "rpc": ["http://adam.cosmwasm-resear.ch:26657"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "min_tx_fee": "5000",
+    "addr_prefix": "cosmos",
+    "logo": "/logos/cosmos.jpg",
+    "assets": [{
+        "base": "ustake",
+        "symbol": "STAKE",
+        "exponent": "6",
+        "logo": "/logos/cosmos.jpg"
+    }]
+}
