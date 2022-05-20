@@ -7,6 +7,7 @@
     "min_tx_fee": "5000",
     "addr_prefix": "cosmos",
     "logo": "/logos/cosmos.jpg",
+    "coin_type": "567",
     "assets": [{
         "base": "ustake",
         "symbol": "STAKE",
